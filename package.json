@@ -5,8 +5,8 @@
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node index.js"
-  },
+  "start": "node domx.js"
+  }
   "engines": {
     "node": "22.x"
   },
